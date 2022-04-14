@@ -21,7 +21,15 @@ class methods:
             i += 1
         return roman_num
 
-class books:
+class book:
     def __init__(self, chapters):
-        self.chapters = 
-        self.age = age
+        self.chapters = chapters
+
+    def display (self):
+        print (f"There are {self.chapters} chapters in this book.")
+
+    def register (self,chapter):
+        
+
+
+
