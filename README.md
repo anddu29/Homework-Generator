@@ -1,4 +1,4 @@
-# homework generator
+# homework Generator
 
 Homework Generator where it picks random exercises from a random chapter of the book initialized by the user. User requests a number of problems for the homework and the script responses with an array with the problems from a random chapter.
 
